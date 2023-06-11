@@ -1,1 +1,1 @@
-Attemting vagrant on my PC
+Attempting the vagrant project
